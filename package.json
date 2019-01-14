@@ -1,10 +1,9 @@
 {
-  "name": "grey-app-react-router",
-  "version": "0.1.5",
+  "name": "grey-message",
+  "version": "1.0.1",
   "private": false,
   "main": "index.js",
   "dependencies": {
-    "grey-message": "^1.0.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts-ts": "3.1.0"

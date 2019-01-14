@@ -3,7 +3,7 @@ const del = require("del");
 var ts = require("gulp-typescript");
 var tsProject = ts.createProject('tsconfig.json');
 var merge = require('merge2');
-var root = 'src/node_modules/grey-app-react-router/**/*.ts*';
+var root = 'src/node_modules/grey-message/**/*.ts*';
 
 // 编译 ts
 gulp.task('default', async () => {
