@@ -1,4 +1,4 @@
-## 一个可以没有历史记录的路由
+## 消息处理包
 
 ### github
-https://github.com/xbgrey/grey-app-react-router
+https://github.com/xbgrey/grey-message
